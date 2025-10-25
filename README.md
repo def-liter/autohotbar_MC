@@ -1,5 +1,5 @@
 # autohotbar_MC
-under construction
+THIS PROJECT HAS FAILED AND IS ABANDONED FOR NOW
 
 WARNING:
 must have minescript installed
