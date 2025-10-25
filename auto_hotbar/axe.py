@@ -1,0 +1,21 @@
+blocks = [
+    "oak",
+    "spruce",
+    "birch",
+    "jungle",
+    "acacia",
+    "mangrove",
+    "cherry",
+    "bamboo",
+    "bee",
+    "planks",
+    "warped",
+    "crimson",
+    "mushroom",
+    "ladder",
+    "pumpkin",
+    "melons",
+    "target",
+    "",
+    ""
+]
